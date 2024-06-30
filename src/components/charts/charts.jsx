@@ -11,6 +11,7 @@ const data = [
 const Charts = () => {
   return (
     <LineChart width={600} height={300} data={data}>
+      {/* <YAxis width={1000} height={700} data={newdata}/> */}
       <Line type="monotone" dataKey="uv" stroke="#8884d8" />
       <CartesianGrid stroke="#ccc" />
       <XAxis dataKey="name" />

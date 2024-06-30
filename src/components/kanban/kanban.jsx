@@ -57,7 +57,7 @@ const Kanban = () => {
                           padding: '8px',
                           margin: '0 0 8px 0',
                           minHeight: '50px',
-                          backgroundColor: '#fff',
+                          backgroundColor: '#ff0f',
                           color: '#333',
                           ...provided.draggableProps.style,
                         }}
