@@ -69,8 +69,8 @@ const Navbar = () => {
               alt="user-profile"
             />
             <p>
-              <span className="text-gray-400 text-14">Hello,</span>{' '}
-              <span className="text-gray-400 font-bold ml-1 text-14">
+              <span className="text-gray-700  dark:text-gray-300 text-14">Hello,</span>{' '}
+              <span className="text-gray-700  dark:text-gray-100 ml-1 text-14">
                 Jayesh
               </span>
             </p>
